@@ -1,0 +1,118 @@
+.body-font {
+  font-family: 'Merriweather', serif;
+}
+.headline-font {
+  font-family: 'Lato', sans-serif;
+}
+.full-height {
+  height: 100%;
+}
+.table {
+  display: table;
+}
+.table > div {
+  display: table-cell;
+  vertical-align: middle;
+}
+.nav-menu-list a {
+  font-family: 'Lato', sans-serif;
+}
+.post-header-info-title,
+.post-header-info-content a {
+  font-family: 'Merriweather', serif;
+}
+a,
+a:link,
+a:visited,
+a:active {
+  color: #16a5b7;
+  text-decoration: none;
+}
+a:hover {
+  color: #2ecc71;
+  transition: color 200ms ease ;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0px;
+}
+html,
+body {
+  font-size: 0.995em;
+  line-height: 1.843em;
+}
+h1 {
+  font-size: 2.375em;
+  line-height: 1.007em;
+  margin-bottom: 0.537em;
+}
+h2 {
+  font-size: 2.05em;
+  line-height: 1.128em;
+  margin-bottom: 0.806em;
+}
+h3 {
+  font-size: 1.5em;
+  line-height: 1.35em;
+  margin-bottom: 1.35em;
+}
+h4 {
+  font-size: 1.25em;
+  line-height: 1.540em;
+  margin-bottom: 1.813em;
+}
+p {
+  margin-top: 1.843em;
+  margin-bottom: 1.843em;
+}
+html,
+body {
+  font-family: 'Merriweather', serif;
+  color: #444444;
+  font-weight: 400;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', sans-serif;
+  color: #333333;
+  font-weight: 900;
+}
+@media (min-width: 992px) {
+  html,
+  body {
+    font-size: 1.05em;
+    line-height: 1.85em;
+  }
+  h1 {
+    font-size: 2.375em;
+    line-height: 1.007em;
+    margin-bottom: 0.537em;
+  }
+  h2 {
+    font-size: 2.05em;
+    line-height: 1.128em;
+    margin-bottom: 0.805em;
+  }
+  h3 {
+    font-size: 1.5em;
+    line-height: 1.35em;
+    margin-bottom: 1.35em;
+  }
+  h4 {
+    font-size: 1.25em;
+    line-height: 1.541em;
+    margin-bottom: 1.813em;
+  }
+  p {
+    margin-top: 1.85em;
+    margin-bottom: 1.85em;
+  }
+}
