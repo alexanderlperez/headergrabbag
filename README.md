@@ -51,7 +51,7 @@ This will create a standalone header.css for you to use.
 
 #### Include the resulting CSS file, along with adding the header code in your HTML
 
-`<link>` the header.css in your page, and include the relevant `<header>` in your page. The header HTML is located in the project's root directory.
+`<link>` the header.css in your page, and include the relevant `<header>` in your page. The header HTML is located in the demo pages.
 
 #### Apply font-family styles to header elements
 
